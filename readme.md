@@ -18,5 +18,9 @@ Will be setting up the HTML and CSS for the project, along with maintaining the 
 
 ### Project Criteria 
 
-### Project Special Notes 
+### Project Special Notes  
+
+ALL CHOICES MUST BE MADE MOBILE FIRST AND MUST ALSO INCLUDE A DESKTOP LAYOUT.   
+A strecth goal is to implement validation for credit card numbers   
+
 
