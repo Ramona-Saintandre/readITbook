@@ -17,7 +17,6 @@ Should I put video length in the description ?
 [Markdown Shortcuts Extension in Visual Studio Code](https://www.youtube.com/watch?v=sgd8mORgbTw&t=26s)
 [Editing Markdown with Visual Studio Code](https://www.youtube.com/watch?v=x1Mkh77ZIXo)  
 [Brad Traversy-Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) 
-[Visual Studio Code and Markdown Tutorial](https://www.youtube.com/watch?v=10p-GjYantc) - no sound video only
 [Learn Markdown the fun free easy way with VS Code right here](https://alansimpson.me/vscode/markdown)- online course
 
 **VSC tools and tips**
