@@ -1,6 +1,7 @@
 
 ## Resources
-
+**Notes**
+Should I put video length in the description ?
 **Videos**
 
 [JavaScript Shopping Cart Tutorial for Beginners](https://www.youtube.com/watch?v=YeFzkC2awTM)
@@ -10,20 +11,19 @@
 **Markdown Videos**
 
 [Introduction To Markdown Using Visual Studio Code](https://www.youtube.com/watch?v=pTCROLZLhDM&t=546s)
-[Intro to Markdown Using Visual Studio Code](https://www.youtube.com/watch?v=pTCROLZLhDM) 
 [Learn Markdown with VS Code](https://www.youtube.com/watch?v=H3ZiKX6NvcA)  
-[Learn Markdown the fun free easy way with VS Code right here](https://www.youtube.com/redirect?q=https%3A%2F%2Falansimpson.me%2Fvscode%2Fmarkdown%2F&redir_token=S6i8U6zjEzvMovvErZOploy5TKh8MTU3NjE1Mzg5MUAxNTc2MDY3NDkx&v=H3ZiKX6NvcA&event=video_description)
 [Visual Studio Code markdown preview with Unity3d source code and How to setup markdown in VSCode?](https://www.youtube.com/watch?v=1lFL7pPh5pU)  
 [Visual Studio Code Markdown Preview](https://www.youtube.com/watch?v=d9_8e3LrrCI)
 [Markdown Shortcuts Extension in Visual Studio Code](https://www.youtube.com/watch?v=sgd8mORgbTw&t=26s)
 [Editing Markdown with Visual Studio Code](https://www.youtube.com/watch?v=x1Mkh77ZIXo)  
-[Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) 
-[Markdown Shortcuts Extension in Visual Studio Code](https://www.youtube.com/watch?v=sgd8mORgbTw)
+[Brad Traversy-Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) 
+[Visual Studio Code and Markdown Tutorial](https://www.youtube.com/watch?v=10p-GjYantc) - no sound video only
+[Learn Markdown the fun free easy way with VS Code right here](https://alansimpson.me/vscode/markdown)- online course
 
 **VSC tools and tips**
 [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY&t=204s)
 [How to disable IntelliSense in Visual Studio Code for Markdown](https://www.youtube.com/watch?v=uEF0jffuqgg) no sound video only 
-[Visual Studio Code and Markdown Tutorial](https://www.youtube.com/watch?v=10p-GjYantc) - no sound video only 
+ 
 
 **Github Markdown**
 Don't know much about this, but I know that there is different ways of doing markdown for github , so here is some references for this also for those that are interested 
